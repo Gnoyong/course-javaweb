@@ -17,6 +17,7 @@
 
     <modules>
         <module>exp3</module>
+        <module>exp4</module>
     </modules>
 
     <dependencies>
