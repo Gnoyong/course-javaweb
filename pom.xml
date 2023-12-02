@@ -20,6 +20,7 @@
         <module>exp4</module>
         <module>exp5</module>
         <module>exp6</module>
+        <module>exp7</module>
     </modules>
 
     <dependencies>
@@ -45,6 +46,11 @@
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>8.0.33</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
         </dependency>
     </dependencies>
 
