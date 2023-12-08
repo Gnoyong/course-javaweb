@@ -13,7 +13,7 @@
 <body>
 <h3>这是包含页面中的内容</h3>
 
-<c:import url="included.jsp" charEncoding="gb2312">
+    <c:import url="included.jsp" charEncoding="gb2312">
     <c:param name="userName" value="Harry Porter"/>
 </c:import>
 
